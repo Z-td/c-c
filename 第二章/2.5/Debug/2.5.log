@@ -1,0 +1,4 @@
+﻿  2.5.c
+D:\仓库\newgit\cccc\project2\2.5\2.5.c(5,15): warning C4013: “any”未定义；假设外部返回 int
+D:\仓库\newgit\cccc\project2\2.5\2.5.c(9,16): warning C4101: “k”: 未引用的局部变量
+  2.5.vcxproj -> D:\仓库\newgit\cccc\project2\2.5\Debug\2.5.exe
