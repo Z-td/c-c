@@ -1,0 +1,4 @@
+﻿  5.7.c
+D:\仓库\newgit\cccc\第五章\5.7\5.7.c(39,9): warning C4013: “strcpy”未定义；假设外部返回 int
+D:\仓库\newgit\cccc\第五章\5.7\5.7.c(35,1): warning C4047: “初始化”:“char *”与“char (*)[100]”的间接级别不同
+  5.7.vcxproj -> D:\仓库\newgit\cccc\第五章\5.7\Debug\5.7.exe

@@ -1,2 +1,4 @@
 D:\仓库\newgit\cccc\project3\Project3\Debug\Project3.exe
 D:\仓库\newgit\cccc\project3\Project3\Debug\Project3.pdb
+D:\仓库\newgit\cccc\第三章\Project3\Debug\Project3.exe
+D:\仓库\newgit\cccc\第三章\Project3\Debug\Project3.pdb

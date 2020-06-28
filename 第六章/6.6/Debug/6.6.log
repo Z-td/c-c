@@ -1,0 +1,9 @@
+﻿  6.6.c
+D:\仓库\newgit\cccc\第六章\6.6\6.6.c(29,23): warning C4028: 形参 1 与声明不同
+D:\仓库\newgit\cccc\第六章\6.6\6.6.c(29,23): warning C4273: “_strdup”: dll 链接不一致
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(152,38): message : 参见“_strdup”的前一个定义
+D:\仓库\newgit\cccc\第六章\6.6\6.6.c(122,20): warning C4028: 形参 1 与声明不同
+D:\仓库\newgit\cccc\第六章\6.6\6.6.c(123,1): warning C4273: “strdup”: dll 链接不一致
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(536,28): message : 参见“strdup”的前一个定义
+    正在创建库 D:\仓库\newgit\cccc\第六章\6.6\Debug\6.6.lib 和对象 D:\仓库\newgit\cccc\第六章\6.6\Debug\6.6.exp
+  6.6.vcxproj -> D:\仓库\newgit\cccc\第六章\6.6\Debug\6.6.exe

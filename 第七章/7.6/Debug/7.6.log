@@ -1,0 +1,14 @@
+﻿  7.6.c
+D:\仓库\newgit\cccc\第七章\7.6\7.6.c(18,11): warning C4477: “scanf_s”: 格式字符串“%s”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“char (*)[1000]”
+D:\仓库\newgit\cccc\第七章\7.6\7.6.c(18,11): message : 此参数用作缓冲区大小
+D:\仓库\newgit\cccc\第七章\7.6\7.6.c(18,11): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+D:\仓库\newgit\cccc\第七章\7.6\7.6.c(18,11): message : 占位符和其参数预计 4 可变参数，但提供的却是 2 参数
+D:\仓库\newgit\cccc\第七章\7.6\7.6.c(18,11): message : 缺失的可变参数 3 为格式字符串“%s”所需
+D:\仓库\newgit\cccc\第七章\7.6\7.6.c(18,11): message : 此参数由转换说明符使用
+D:\仓库\newgit\cccc\第七章\7.6\7.6.c(19,37): warning C4047: “=”:“FILE *”与“errno_t”的间接级别不同
+D:\仓库\newgit\cccc\第七章\7.6\7.6.c(19,82): warning C4047: “=”:“FILE *”与“errno_t”的间接级别不同
+D:\仓库\newgit\cccc\第七章\7.6\7.6.c(20,54): warning C4474: fprintf: 格式字符串中传递的参数太多
+D:\仓库\newgit\cccc\第七章\7.6\7.6.c(20,54): message : 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+D:\仓库\newgit\cccc\第七章\7.6\7.6.c(25,38): warning C4047: “=”:“FILE *”与“errno_t”的间接级别不同
+D:\仓库\newgit\cccc\第七章\7.6\7.6.c(25,84): warning C4047: “=”:“FILE *”与“errno_t”的间接级别不同
+  7.6.vcxproj -> D:\仓库\newgit\cccc\第七章\7.6\Debug\7.6.exe

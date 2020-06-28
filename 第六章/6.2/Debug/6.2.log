@@ -1,0 +1,17 @@
+﻿  6.2.c
+D:\仓库\newgit\cccc\第六章\6.2\6.2.c(31,29): warning C4031: 第二个形参表比第一个长
+D:\仓库\newgit\cccc\第六章\6.2\6.2.c(31,29): warning C4028: 形参 1 与声明不同
+D:\仓库\newgit\cccc\第六章\6.2\6.2.c(31,29): warning C4273: “strdup”: dll 链接不一致
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(536,28): message : 参见“strdup”的前一个定义
+D:\仓库\newgit\cccc\第六章\6.2\6.2.c(63,22): warning C4020: “_strdup”: 实参太多
+D:\仓库\newgit\cccc\第六章\6.2\6.2.c(87,28): warning C4020: “_strdup”: 实参太多
+D:\仓库\newgit\cccc\第六章\6.2\6.2.c(123,16): warning C4047: “函数”:“char *”与“int”的间接级别不同
+D:\仓库\newgit\cccc\第六章\6.2\6.2.c(123,16): warning C4024: “strcpy_s”: 形参和实参 1 的类型不同
+D:\仓库\newgit\cccc\第六章\6.2\6.2.c(123,18): warning C4047: “函数”:“rsize_t”与“char *”的间接级别不同
+D:\仓库\newgit\cccc\第六章\6.2\6.2.c(123,18): warning C4024: “strcpy_s”: 形参和实参 2 的类型不同
+D:\仓库\newgit\cccc\第六章\6.2\6.2.c(125,18): warning C4047: “函数”:“rsize_t”与“char *”的间接级别不同
+D:\仓库\newgit\cccc\第六章\6.2\6.2.c(125,18): warning C4024: “strncat_s”: 形参和实参 2 的类型不同
+D:\仓库\newgit\cccc\第六章\6.2\6.2.c(125,21): warning C4047: “函数”:“const char *”与“int”的间接级别不同
+D:\仓库\newgit\cccc\第六章\6.2\6.2.c(125,21): warning C4024: “strncat_s”: 形参和实参 3 的类型不同
+    正在创建库 D:\仓库\newgit\cccc\第六章\6.2\Debug\6.2.lib 和对象 D:\仓库\newgit\cccc\第六章\6.2\Debug\6.2.exp
+  6.2.vcxproj -> D:\仓库\newgit\cccc\第六章\6.2\Debug\6.2.exe

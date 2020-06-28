@@ -1,0 +1,3 @@
+﻿  6.1.c
+MSVCRTD.lib(exe_main.obj) : error LNK2019: 无法解析的外部符号 _main，函数 "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) 中引用了该符号
+D:\仓库\newgit\cccc\第六章\6.1\Debug\6.1.exe : fatal error LNK1120: 1 个无法解析的外部命令

@@ -1,0 +1,42 @@
+﻿  5.18,20.c
+D:\仓库\newgit\cccc\第五章\5.18\5.18,20.c(33,16): warning C4047: “函数”:“char *”与“int”的间接级别不同
+D:\仓库\newgit\cccc\第五章\5.18\5.18,20.c(33,16): warning C4024: “strcpy_s”: 形参和实参 1 的类型不同
+D:\仓库\newgit\cccc\第五章\5.18\5.18,20.c(33,25): warning C4047: “函数”:“rsize_t”与“char [100]”的间接级别不同
+D:\仓库\newgit\cccc\第五章\5.18\5.18,20.c(33,25): warning C4024: “strcpy_s”: 形参和实参 2 的类型不同
+D:\仓库\newgit\cccc\第五章\5.18\5.18,20.c(38,16): warning C4047: “函数”:“char *”与“int”的间接级别不同
+D:\仓库\newgit\cccc\第五章\5.18\5.18,20.c(38,16): warning C4024: “strcat_s”: 形参和实参 1 的类型不同
+D:\仓库\newgit\cccc\第五章\5.18\5.18,20.c(38,25): warning C4047: “函数”:“rsize_t”与“char [100]”的间接级别不同
+D:\仓库\newgit\cccc\第五章\5.18\5.18,20.c(38,25): warning C4024: “strcat_s”: 形参和实参 2 的类型不同
+D:\仓库\newgit\cccc\第五章\5.18\5.18,20.c(67,17): warning C4047: “函数”:“char *”与“int”的间接级别不同
+D:\仓库\newgit\cccc\第五章\5.18\5.18,20.c(67,17): warning C4024: “strcpy_s”: 形参和实参 1 的类型不同
+D:\仓库\newgit\cccc\第五章\5.18\5.18,20.c(67,23): warning C4047: “函数”:“rsize_t”与“char [100]”的间接级别不同
+D:\仓库\newgit\cccc\第五章\5.18\5.18,20.c(67,23): warning C4024: “strcpy_s”: 形参和实参 2 的类型不同
+D:\仓库\newgit\cccc\第五章\5.18\5.18,20.c(119,16): warning C4047: “函数”:“char *”与“int”的间接级别不同
+D:\仓库\newgit\cccc\第五章\5.18\5.18,20.c(119,16): warning C4024: “strcat_s”: 形参和实参 1 的类型不同
+D:\仓库\newgit\cccc\第五章\5.18\5.18,20.c(119,20): warning C4047: “函数”:“rsize_t”与“char [1000]”的间接级别不同
+D:\仓库\newgit\cccc\第五章\5.18\5.18,20.c(119,20): warning C4024: “strcat_s”: 形参和实参 2 的类型不同
+D:\仓库\newgit\cccc\第五章\5.18\5.18,20.c(121,16): warning C4047: “函数”:“char *”与“int”的间接级别不同
+D:\仓库\newgit\cccc\第五章\5.18\5.18,20.c(121,16): warning C4024: “strcat_s”: 形参和实参 1 的类型不同
+D:\仓库\newgit\cccc\第五章\5.18\5.18,20.c(121,20): warning C4047: “函数”:“rsize_t”与“char [1000]”的间接级别不同
+D:\仓库\newgit\cccc\第五章\5.18\5.18,20.c(121,20): warning C4024: “strcat_s”: 形参和实参 2 的类型不同
+D:\仓库\newgit\cccc\第五章\5.18\5.18,20.c(136,15): warning C4047: “函数”:“char *”与“int”的间接级别不同
+D:\仓库\newgit\cccc\第五章\5.18\5.18,20.c(136,15): warning C4024: “strcpy_s”: 形参和实参 1 的类型不同
+D:\仓库\newgit\cccc\第五章\5.18\5.18,20.c(136,20): warning C4047: “函数”:“rsize_t”与“char [100]”的间接级别不同
+D:\仓库\newgit\cccc\第五章\5.18\5.18,20.c(136,20): warning C4024: “strcpy_s”: 形参和实参 2 的类型不同
+D:\仓库\newgit\cccc\第五章\5.18\5.18,20.c(141,16): warning C4047: “函数”:“char *”与“int”的间接级别不同
+D:\仓库\newgit\cccc\第五章\5.18\5.18,20.c(141,16): warning C4024: “strcat_s”: 形参和实参 1 的类型不同
+D:\仓库\newgit\cccc\第五章\5.18\5.18,20.c(141,20): warning C4047: “函数”:“rsize_t”与“char [1000]”的间接级别不同
+D:\仓库\newgit\cccc\第五章\5.18\5.18,20.c(141,20): warning C4024: “strcat_s”: 形参和实参 2 的类型不同
+D:\仓库\newgit\cccc\第五章\5.18\5.18,20.c(144,16): warning C4047: “函数”:“char *”与“int”的间接级别不同
+D:\仓库\newgit\cccc\第五章\5.18\5.18,20.c(144,16): warning C4024: “strcat_s”: 形参和实参 1 的类型不同
+D:\仓库\newgit\cccc\第五章\5.18\5.18,20.c(144,20): warning C4047: “函数”:“rsize_t”与“char [1000]”的间接级别不同
+D:\仓库\newgit\cccc\第五章\5.18\5.18,20.c(144,20): warning C4024: “strcat_s”: 形参和实参 2 的类型不同
+D:\仓库\newgit\cccc\第五章\5.18\5.18,20.c(145,16): warning C4047: “函数”:“char *”与“int”的间接级别不同
+D:\仓库\newgit\cccc\第五章\5.18\5.18,20.c(145,16): warning C4024: “strcat_s”: 形参和实参 1 的类型不同
+D:\仓库\newgit\cccc\第五章\5.18\5.18,20.c(145,20): warning C4047: “函数”:“rsize_t”与“char [1000]”的间接级别不同
+D:\仓库\newgit\cccc\第五章\5.18\5.18,20.c(145,20): warning C4024: “strcat_s”: 形参和实参 2 的类型不同
+D:\仓库\newgit\cccc\第五章\5.18\5.18,20.c(146,16): warning C4047: “函数”:“char *”与“int”的间接级别不同
+D:\仓库\newgit\cccc\第五章\5.18\5.18,20.c(146,16): warning C4024: “strcat_s”: 形参和实参 1 的类型不同
+D:\仓库\newgit\cccc\第五章\5.18\5.18,20.c(146,20): warning C4047: “函数”:“rsize_t”与“char [1000]”的间接级别不同
+D:\仓库\newgit\cccc\第五章\5.18\5.18,20.c(146,20): warning C4024: “strcat_s”: 形参和实参 2 的类型不同
+  5.18.vcxproj -> D:\仓库\newgit\cccc\第五章\5.18\Debug\5.18.exe

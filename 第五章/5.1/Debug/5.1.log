@@ -1,0 +1,4 @@
+﻿  5.1.c
+D:\仓库\newgit\cccc\第五章\5.1\5.1.c(42,9): warning C4033: “getint”必须返回值
+D:\仓库\newgit\cccc\第五章\5.1\5.1.c(53): warning C4715: “getint”: 不是所有的控件路径都返回值
+  5.1.vcxproj -> D:\仓库\newgit\cccc\第五章\5.1\Debug\5.1.exe

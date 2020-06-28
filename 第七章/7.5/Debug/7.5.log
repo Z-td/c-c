@@ -1,0 +1,6 @@
+﻿  7.5.c
+D:\仓库\newgit\cccc\第七章\7.5\7.5.c(173,14): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+D:\仓库\newgit\cccc\第七章\7.5\7.5.c(173,14): message : 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+D:\仓库\newgit\cccc\第七章\7.5\7.5.c(173,14): message : 缺失的可变参数 2 为格式字符串“%s”所需
+D:\仓库\newgit\cccc\第七章\7.5\7.5.c(173,14): message : 此参数用作缓冲区大小
+  7.5.vcxproj -> D:\仓库\newgit\cccc\第七章\7.5\Debug\7.5.exe

@@ -1,0 +1,6 @@
+﻿  5.6.c
+D:\仓库\newgit\cccc\第五章\5.6\5.6.c(51,9): warning C4013: “reverse”未定义；假设外部返回 int
+D:\仓库\newgit\cccc\第五章\5.6\5.6.c(178,24): warning C4013: “getch”未定义；假设外部返回 int
+D:\仓库\newgit\cccc\第五章\5.6\5.6.c(194,10): warning C4013: “ungetch”未定义；假设外部返回 int
+D:\仓库\newgit\cccc\第五章\5.6\5.6.c(67): warning C4716: “reverse”: 必须返回一个值
+  5.6.vcxproj -> D:\仓库\newgit\cccc\第五章\5.6\Debug\5.6.exe

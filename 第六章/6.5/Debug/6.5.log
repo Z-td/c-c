@@ -1,0 +1,6 @@
+﻿  6.5.c
+D:\仓库\newgit\cccc\第六章\6.5\6.5.c(145,15): warning C4047: “函数”:“char *”与“int”的间接级别不同
+D:\仓库\newgit\cccc\第六章\6.5\6.5.c(145,15): warning C4024: “strcpy_s”: 形参和实参 1 的类型不同
+D:\仓库\newgit\cccc\第六章\6.5\6.5.c(145,17): warning C4047: “函数”:“rsize_t”与“char *”的间接级别不同
+D:\仓库\newgit\cccc\第六章\6.5\6.5.c(145,17): warning C4024: “strcpy_s”: 形参和实参 2 的类型不同
+  6.5.vcxproj -> D:\仓库\newgit\cccc\第六章\6.5\Debug\6.5.exe
